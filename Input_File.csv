@@ -1,0 +1,7 @@
+Category,Name,Type/Brand,Price,Expiration Period,Status
+Vegetable,Tomato,A,2,10,In-store
+Fruit,Apple,A,2,12,In-store
+Fruit,Apple,B,4,8,sold-out
+Fruit,Mango,A,5,15,In-store
+Vegetable,Potato,A,7,23,In-store
+Pizza,Cheese,Papa,15,2,In-store
